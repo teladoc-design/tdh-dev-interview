@@ -2,7 +2,7 @@
 Please follow the instructions outlined below.
 
 - Create a new branch with you name (ie. 'john-doe').
-- Using the files provided, build an HTML page with 3 card components.
+- Using the files provided, build an HTML page with a title and 3 card components.
 - These cards should be aligned side-by-side.
 - Each card should have the following elements (the content of these elements can be simple lorem ipsum):
   - Title
@@ -16,3 +16,5 @@ Please follow the instructions outlined below.
 - Please conform to Accessibility best practices
 
 We've included an image with an example to use as a reference, feel free to style this page and its elements in your own way.
+
+<img width="1559" alt="tdh-example" src="https://github.com/user-attachments/assets/421e2dce-5be6-4c0c-bf68-534261ee77d2">
